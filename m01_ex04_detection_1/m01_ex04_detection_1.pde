@@ -1,5 +1,6 @@
 void setup() {
   size(640,480);
+  // fullScreen(1);
 }
 
 void draw() {
